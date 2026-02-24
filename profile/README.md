@@ -12,7 +12,7 @@ ImloYor provides a comprehensive Hunspell dictionary with 213,000+ word forms fo
 | [firefox-dictionary](https://github.com/ImloYor/firefox-dictionary) | Firefox spellcheck dictionary extension |
 | [chrome-extension](https://github.com/ImloYor/chrome-extension) | Chrome spellcheck extension |
 | [libreoffice-extension](https://github.com/ImloYor/libreoffice-extension) | LibreOffice / OpenOffice dictionary extension (.oxt) |
-| [website](https://github.com/ImloYor/website) | Web app — online Tajik spell checker |
+
 
 ## Data Sources
 
